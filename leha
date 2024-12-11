@@ -1,0 +1,6 @@
+cd /pfad/zum/projekt
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/l3h4r/meine-website.git
+git push -u origin master
